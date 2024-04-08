@@ -1,0 +1,26 @@
+ENTITIES:
+	New player skins
+
+GUI:
+	Realms GUI
+	Bundle
+	New menu panorama
+
+EXPERIMENTAL / 1.21 FEATURES:
+	Chiseled copper (normal, exposed, oxidized and weathered)
+	Chiseled and polished tuff
+	Copper bulb (normal, exposed, oxidized and weathered)
+	Copper door / grate / trapdoor (normal, exposed, oxidized and weathered)
+	Crafter
+	Trial Spawner
+	Vault block
+	Armadillo
+	Breeze
+	Wind charge
+	Crafter GUI
+	Trial key
+	Gust
+	Trial spawner detection
+	
+FURTHER OUT
+	Update to all of JAPPA's new textures

@@ -1,0 +1,513 @@
+v120.7.4
+mrdhobbs
+-Updated bat texture to new format
+-Added armor trim smelting template textures
+-Updated stonecutter "saw" texture
+-Added armor trim textures and color palettes
+
+v120.6.3
+mrdhobbs
+-Updated to 1.20.3 format (version 22)
+-Added cherry particle textures
+-Added pink petal textures (missed from last update)
+-Removed unnecessary GUI textures
+-Added backup sprite textures
+-Added icon and notification sprite textures
+-Added goldheart textures
+-Added pending invite textures
+-Added player list textures
+-Added popup texture
+-Added realm status textures
+-Added widget textures
+-Renamed "grass" texture to "short_grass"
+-Edited the text field textures, to reduce the border on search fields
+-Edited the inventory and tab textures, removing extra pixels
+-Edited "alex" and "steve" player skins
+
+v120.5.2
+mrdhobbs
+-Added sniffer and sniffer egg textures
+-Added disc fragment texture
+-Added echo shard texture
+-Added goat horn texture
+-Added pink petal texture
+
+v120.4.2
+mrdhobbs
+-Updated to 1.20.2 format (version 18)
+-Updated GUI textures to 1.20.2 format
+-Added pitcher textures
+-Added torchflower textures
+-Added camel texture
+
+v120.3.1
+mrdhobbs
+-Added suspicious sand and gravel textures
+-Added brush texture
+-Added pottery sherd and decorated pot textures
+
+v120.2.1
+mrdhobbs
+-Added cherry blocks and item textures (wood, fence, etc)
+-Added stripped bamboo textures
+-Added chiseled bookshelf textures
+-Added hanging signs textures
+
+v120.1.1
+mrdhobbs
+-Updated to 1.20 format
+-Updated title texture, and added "Minceraft" texture
+-Added bamboo "wood" block and item textures (door, trapdoor, etc)
+-Added calibrated sculk sensor textures
+
+v119.5.5
+mrdhobbs
+-Updated fire textures
+-Updated conduit wind textures
+
+v119.5.4
+mrdhobbs
+-Updated vex texture to new model
+-Added allay texture
+-Added new painting textures (Earth, Fire, Water and Wind)
+-Added mangrove sign texture
+-Changed smithing GUI texture to "legacy_smithing" texture, and added new smithing GUI texture
+-Added sliders, Create New World background and other GUI textures
+-Added enchantment glow textures
+
+v119.4.3
+mrdhobbs
+-Updated to 1.19.4 format
+-Added sculk, sculk catalyst, sculk sensor, sculk shrieker and sculk vein block textures
+-Added sculk charge and soul particle textures
+-Added shriek and sonic boom particle textures
+-Added warden textures
+-Added stripped mangrove log and mangrove chest boat textures
+
+v119.3.3
+mrdhobbs
+-Updated advancements textures
+-Added reinforced deepslate textures
+-Added music disc 5 texture
+-Updated cocoa stage 2 texture
+-Added mangrove log, plank, leaves, propagule, door, trapdoor, boat, roots and muddy roots textures
+
+v119.2.2
+mrdhobbs
+-Updated to 1.19.3 format
+-Added various GUI elements (bundle, chat report buttons, etc)
+-Updated creative inventory texture
+-Added froglight textures
+-Added mud, mud bricks and packed mud textures
+
+v119.1.1
+mrdhobbs
+-Updated to 1.19 format
+-Added recovery compass textures (all 64 of them!)
+-Changed husbandry advancement background to farmland texture
+-Updated mossy cobblestone texture
+-Added frogs, frogspawn and tadpole textures
+
+v118.2.4
+mrdhobbs
+-Added 1.18 menu panorama textures
+-Updated stonecutter texture
+
+v118.1.3
+mrdhobbs
+-Updated gamemode switcher texture
+
+v118.1.2
+mrdhobbs
+-Added Otherside music disc texture
+-Updated beetroot and melon seeds item textures, to center textures
+-Updated Anvil GUI texture, to update the hammer texture
+-Removed custom main menu background
+
+v118.0.1
+mrdhobbs
+-Updated to 1.18 format
+-Darkened stripped dark oak log and dark oak log textures, to match vanilla updates
+-Updated minecart texture, to match vanilla changes
+-Updated inventory gui, to match vanilla changes
+-Updated item frame item, to match the wood from the block
+-Updated acacia, birch, jungle and warped sign item textures, so posts match the actual item
+-Updated wild axolotl texture, to match vanilla changes
+-Updated crimson and warped stem top textures, to match vanilla changes
+
+v117.6.8
+mrdhobbs
+-Edited witch texture, to remove extra transparent pixels
+-Edited stripped spruce log top texture to closer match default
+-Edited the following textures to match the new JAPPA textures: beetroot growth stages, carrot item, carrot on a stick item, golden carrot item, carrot growth stages, quartz item, ready composter, deepslate diamond ore, diamond ore, potato growth stages and wheat growth stages
+
+v117.6.7
+mrdhobbs
+-Edited spruce log top texture to closer match default
+
+v117.6.6
+mrdhobbs
+-Edited dark oak log top texture to closer match default
+-Updated all shield textures, to use alpha transparency
+-Finished goat texture
+
+v117.6.5
+mrdhobbs
+-Added bettergrass.properties file to remove Optifine error
+-Edited curved rail model to remove Optifine errors
+-Added lightning rod on texture
+-Added potted azalea textures
+-Added globe and piglin shield textures
+-Added checkerboard map background texture
+-Added vibration texture (thanks to chrisdegod)
+-Removed many unnecessary and old files
+
+v117.5.4
+mrdhobbs
+-Added smooth basalt texture
+-Updated the menu panorama, as there were stitching issues
+-Added azelea leaf textures
+-Added raw gold and iron block textures
+-Added candle textures
+-Started goat texture
+
+v117.4.3
+mrdhobbs
+-Added cave vines textures
+-Added dripstone block and pointed dripstone textures
+-Added glow particle texture
+-Updated glint particle texture to match glow texture
+-Updated the menu panorama, to use this resource pack
+
+
+v117.3.2
+mrdhobbs
+-Added big and small dripleaf textures
+-Added moss block texture
+-Added tinted glass texture
+-Added glow lichen and glow berries textures
+-Added amethyst shard, amethyst block, budding amethyst and amethyst cluster textures
+-Added powdered snow block and effect textures
+-Added spore blossom texture
+
+v117.2.2
+mrdhobbs
+-Added raw gold and iron item textures
+-Added axolotl and glow squid textures
+-Added glow ink sac and glow item frame textures
+-Added calcite, lightning rod and tuff textures (thanks to chrisdegod)
+-Added powder snow bucket item texture (thanks to chrisdegod)
+-Added turtle helmet texture (thanks to chrisdegod)
+-Added polished deepslate texture
+-Renamed grass path textures to dirt path
+-Added spyglass textures
+-Added rooted dirt and hanging root textures
+-Added netherite armor
+
+v117.1.1
+mrdhobbs
+-Updated to 1.17 format
+-Updated coal, emerald, gold, iron, lapis and redstone ore textures
+-Added copper ore texture
+-Added deepslate, deepslate top and deepslate ore (coal, copper, diamond, emerald, gold, iron, lapis and redstone) textures
+-Added deepslate brick and deepslate tile textures (and cracked variants)
+-Added chiseled and cobbled deepslate textures
+-Added copper block textures (and variants - cut, exposed, oxidized and weathered)
+-Added copper ingot and raw copper item textures
+
+v116.8.9
+mrdhobbs
+-Corrected soul particle texture filenames
+
+v116.8.8
+mrdhobbs
+-Added Alex texture and piglin leather armor texture
+-Updated sunflower texture and model, so the flower head now touches the stem 
+-Updated horse armour and markings textures (thanks to chrisdegod)
+-Updated soul lantern item and block textures (thanks to chrisdegod)
+
+v116.7.7
+mrdhobbs
+-Updated some item textures (beetroot, chorus fruit, cod, cod in a bucket, glass bottle, honeycomb & popped chorus fruit) provided by chrisdegod
+-Updated honey bottle to match updated glass bottle texture
+-Updated bee nest textures, provided by chrisdegod
+-Updated shield, trident riptide and enchanting book entity textures, provided by chrisdegod
+
+v116.7.6
+mrdhobbs
+-Corrected beacon GUI texture, to include netherite slot
+-Corrected incorrect resolution textures for many of the GUI textures (such as inventories)
+-Added seagrass texture
+-Added piglin banner item texture
+-Added 3D models for spruce, crimson and warped wood doors
+-Added all cat textures (thanks to Ash.)
+-Added all fox textures (thanks to Ash.)
+-Added iron golem cracked textures (thanks to Ash.)
+-Added drowned, silverfish and trident textures (thanks to Ash.)
+-Added phantom and phantom membrane item textures (thanks to Ash.)
+-Corrected all banner textures (thanks to Ash.)
+
+v116.6.5
+mrdhobbs
+-Added pillager and ravager textures
+-Added all fish textures
+-Added end crystal texture and updated end crystal item texture
+-Corrected minor errors in the curved and powered rail 3D models
+
+v116.5.4
+mrdhobbs
+-Added all wood type boat textures
+-Added bee nest and structure block textures
+-Added purple shulker box and target block textures
+-Added cracked nether brick and cracked polished blackstone brick textures
+-Corrected polished blackstone brick texture
+-Corrected activator rail 3D models
+-Corrected warped door item texture
+-Corrected turtle texture
+
+v116.4.3
+mrdhobbs
+-Added ancient debris, quartz brick and shroomlight textures
+-Added crimson planks, door, trapdoor and sign textures
+-Added warped planks, door, trapdoor and sign textures
+-Added hoglin, zoglin, piglin, piglin brute, zombified piglin and strider textures
+-Added warped fungus on a stick and nether sprout item textures
+-Added smoke and soul particle textures (thanks to Ash.)
+-Added panda, turtle, bat, elytra and endermite textures (thanks to Ash.)
+
+v116.3.3
+mrdhobbs
+-Updated to 1.16.2 format (format "6")
+-Updated seagrass item texture
+-Updated Totem of Undying item texture (thanks to chrisdegod)
+-Added basalt and polished basalt textures
+-Added soul soil texture (and updated soul sand to match the colours)
+-Added beehive and cornflower textures (thanks to chrisdegod)
+-Updated bamboo stage 0 and water textures (thanks to chrisdegod)
+
+
+v116.2.2
+mrdhobbs
+-Corrected the soul flame/lantern and respawn anchor animations
+-Corrected transparent texture on dark oak doors (thanks to uightzockt)
+-Added pigstep music disc (thanks to ChobbsO9)
+-Added blackstone and gilded blackstone textures
+-Added polished blackstone texture variants (thanks to ChobbsO9)
+-Added netherite and lodestone block textures
+-Added seagrass and tall seagrass textures (thanks to uightzockt)
+
+
+v116.1.1
+mrdhobbs
+-Corrected 3D rail textures
+-Added chain block and item textures
+-Added chiseled nether brick texture
+-Added crying obsidian texture
+-Updated obsidian and enchanting table textures
+-Added respawn anchor textures
+-Added soul fire and associated textures
+-Added smithing table GUI texture
+-Added netherite tools and weapons textures
+
+
+v116.0.0
+mrdhobbs
+-Added all zombie villager textures
+-Added "Java Edition" texture
+
+ShadowTime1290
+-Updated all ore textures
+-Updated stone and gravel textures
+-Updated netherrack, nether wart block, quartz ore and magma textures
+-Added crimson and warped nether textures (fungus, nylium, roots, stem)
+-Added nether gold ore, nether sprouts and twisting and weeping vines
+
+
+v115.5.5 - mrdhobbs
+-Corrected chest textures
+-Added bee textures
+-Added all villager textures
+-Added wandering trader and llama textures
+
+v115.4.4 - mrdhobbs
+-Corrected the fonts folder to the new location, so HD fonts are working again
+-Updated glass textures to the new clearer default
+-Added conduit textures
+
+v115.3.3 - mrdhobbs
+-Added chorus flower and chorus plant textures
+-Added structure void, fishing hook and lily of the valley textures (thanks to chrisdegod)
+-Updated the various fish-in-a-bucket textures and end rod texture (thanks to chrisdegod)
+-Updated elytra and broken elytra textures
+-Updated beetroot seeds texture
+
+v115.2.2 - mrdhobbs
+-Added all coral, coral blocks, coral fans and their dead variants (30 textures)
+
+v115.1.2 - mrdhobbs
+-Converted existing textures to new mob effects textures, and added new textures
+-Added new GUI textures (accessibility buttons, bars, checkboxes and world selector)
+-Updated GUI texture, to change highlighted button colour
+-Updated enchantment glint texture, to fix enchanted items
+
+v115.0.1 - mrdhobbs
+-Updated chest to new textures
+-Updated banners to use alpha channel
+
+v115.0.0 - mrdhobbs
+-Updated for 1.15 support
+
+v114.5.3 - mrdhobbs
+-Updated crossbow and apple textures (many thanks to David_Blaster)
+-Added suspicious stew texture
+-Added heart of the sea texture
+-Corrected error causing HD font to not be used
+-Updated potion textures (many thanks to David_Blaster)
+
+v114.4.2 - mrdhobbs
+-Added wither rose texture
+-Added crossbow textures
+-Added black, blue and white dye textures and cocoa bean texture
+-Added GUIs for new "job site" blocks
+-Added sweet berries and bush textures
+
+v114.3.2 - mrdhobbs
+-Corrected cartography table top texture
+-Added scaffolding texture
+-Added sea pickle texture
+-Updated melon, cactus and apple textures (many thanks to David_Blaster)
+-Added globe banner and banner pattern textures
+-Updated diamond sword texture
+-Updated filled map texture and added filled map markings texture
+
+v114.2.1 - mrdhobbs
+-Added "job site" textures (cartography table, composter, fletching table, grindstone, lectern, loom, smithing table, smoker and stone cutter)
+-Added jigsaw texture
+-Added lantern texture
+-Renamed red mooshroom and smooth stone textures
+-Added brown mooshroom texture
+
+v114.1.1 - mrdhobbs
+-Added 3D models for acacia, birch and dark oak trapdoors (many thanks to chris14dressel!)
+-Added 3D models for oak and jungle trapdoors
+-Fixed acacia and oak door 3D models
+-Added wooden sign variant textures
+-Added bamboo, barrel, bell, blast furnace and campfire textures
+
+v114.0.0 - mrdhobbs
+-Updated for 1.14 support
+-Split particle and painting textures into individual textures
+
+v113.5.4 - mrdhobbs
+-Added knowledge book item and gui textures
+-Added turtle egg item and block textures
+-Added scute and turtle helmet item textures
+-Added trident texture
+-Added nautilus shell texture
+-Added work-in-progress sea turtle mob texture
+
+v113.4.4 - mrdhobbs
+-Corrected bed textures
+-Updated Wait disc texture
+-Updated magma block texture
+-Added kelp and dried kelp item and block textures
+
+v113.3.3 - mrdhobbs
+-Added blue ice and frosted ice textures
+-Updated more filenames to 1.13 names (such as illusionist -> illusioner)
+-Updated/added map icons
+-Added totem of undying texture
+-Added fish-in-bucket item textures
+
+v113.2.2 - mrdhobbs
+-Added observer textures
+-Updated brown and white horse textures
+-Added 3 new status effects to inventory texture
+-Updated iron bars 3D models
+-Added stripped log variant textures
+
+v113.1.1 - mrdhobbs
+-Updated particles
+-File name changes for Shulker boxes and anvils (thanks to Rader2146)
+-Added dolphin texture
+-Added wooden trapdoor varieties textures
+
+v113.0.0 - mrdhobbs
+-Updated for 1.13 support
+
+v112.4.0 - mrdhobbs
+-Added remaining bed textures
+-Added concrete and concrete powder textures
+-Added illusionist texture
+
+v112.3.2 - mrdhobbs
+-Added parrot textures
+
+v112.2.2 - mrdhobbs
+-Updated shulker box textures
+-Added glazed terracotta block textures
+
+v112.1.1 - mrdhobbs
+-Updated wool block textures
+-Removed bed block textures
+-Added bed entity textures
+-Added advancement textures
+-Added recipe book textures
+
+v111.2.0 - mrdhobbs
+-Added iron nugget and shulker shell items
+
+v111.1.0 - mrdhobbs
+-Updated for 1.11 support
+-Added illager textures - evoker, vex, vindicator and fangs
+-Added llamas and carpet decorations
+-Added llama and shulker box inventories
+
+v110.2.1 - mrdhobbs
+-Added bone block, red nether brick block and magma block textures
+-Added villager variants of zombie textures
+
+v110.1.1 - mrdhobbs
+-Added mob damage heart textures
+-Added stray textures
+-Added husk textures
+-Added polar bear textures
+-Fixed acacia doors, the bottom of crafting tables and acacia and dark oak plank textures (many thanks to CAD97)
+
+v19.3.7 - mrdhobbs
+-Updated redstone dust textures
+-Added command block textures
+-Added tipped and spectral arrow textures
+
+v19.2.6 - mrdhobbs
+-Added purpur block and purpur pillar block textures
+-Added beetroot growth textures
+-Changed iron block texture (rename iron_block_original.png to iron_block.png to revert)
+
+v19.1.5 - mrdhobbs
+-Added grass path textures
+-Fixed shield textures, so applied banners are shown
+-Corrected chicken head texture (thanks to Amoox!)
+-Added elytras, lingering potions and dragon's breath
+-Added end rod, end crystal and end stone brick textures
+-Updated clock and compass textures
+-Fixed iron bar textures
+
+v19.0.4 - mrdhobbs
+-Reduced size of wooden and iron trapdoors when in hand
+-Corrected display of trapdoors and brick slabs in inventories
+-Added wooden boat varieties and chorus fruit
+
+v19.0.3 - mrdhobbs
+-Added 3D effect to doors and trapdoors
+-Reduced size of crafting table when in hand
+
+v19.0.2 - mrdhobbs
+-Reduced opacity of pumpkin blur
+
+v19.0.1 - mrdhobbs
+-Added 1.9 support
+-Changed inventory / brewing stand / creative inventory / icon textures to incorporate 1.9 updates
+-Added attack indicators
+-Added shield textures
+-Removed 3D effect for all doors and trapdoors, due to broken textures
