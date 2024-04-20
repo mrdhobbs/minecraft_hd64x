@@ -4,7 +4,6 @@ ENTITIES:
 GUI:
 	Realms GUI
 	Bundle
-	New menu panorama
 
 EXPERIMENTAL / 1.21 FEATURES:
 	Chiseled copper (normal, exposed, oxidized and weathered)
