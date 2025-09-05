@@ -1,25 +1,39 @@
+(Minecraft 1.21.8)
+
+BLOCKS:
+    Dried ghast
+
+COLORMAP:
+    Dry foliage
+
 ENTITIES:
-	New player skins
+    Happy ghast
+    Happy ghast harness (16 colours)
 
 GUI:
-	Realms GUI
-	Bundle
+    Warning button
+    Locator bar
+    Music notes
+    Panorama
+    Now Playing toast
 
-EXPERIMENTAL / 1.21 FEATURES:
-	Chiseled copper (normal, exposed, oxidized and weathered)
-	Chiseled and polished tuff
-	Copper bulb (normal, exposed, oxidized and weathered)
-	Copper door / grate / trapdoor (normal, exposed, oxidized and weathered)
-	Crafter
-	Trial Spawner
-	Vault block
-	Armadillo
-	Breeze
-	Wind charge
-	Crafter GUI
-	Trial key
-	Gust
-	Trial spawner detection
-	
-FURTHER OUT
-	Update to all of JAPPA's new textures
+ITEMS:
+    Happy ghast harness (16 colours)
+    Tears music disc
+
+(Previous versions)
+
+ENTITIES:
+    New player skins
+
+GUI:
+    Realms GUI
+    Panorama
+
+ITEMS:
+    Light (creative only)
+    Spawn Eggs (55 of 82 complete)
+
+Further out
+    JAPPA textures
+    PBR textures 

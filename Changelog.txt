@@ -1,3 +1,178 @@
+v121.12.14
+mrdhobbs
+- Updated to 1.21.8 format (version 64)
+- Added blaze, ghast and happy ghast spawn egg textures
+- Added magma cube and strider spawn egg textures
+- Added wither skelleton and wither spawn egg textures
+- Added piglin, piglin brute and zombified piglin spawn egg textures
+- Added hoglin and zoglin spawn egg textures
+- Added Dennis painting texture
+
+v121.11.14
+mrdhobbs
+- Added cod, pufferfish, salmon and tropical fish spawn egg textures
+- Added tadpole and dolphin spawn egg textures
+- Added squid and glow squid spawn egg textures
+- Added guardian and elder guardian spawn egg textures
+- Added text block textures
+- Added wandering trader, trader llama and llama spawn egg textures
+- Added horse, donkey and mule spawn egg textures
+- Added camel and goat spawn egg textures
+- Added bat and bee spawn egg textures
+- Added cat and ocelot spawn egg textures
+- Added fox and wolf spawn egg textures
+- Added turtle spawn egg textures
+- Added frog, parrot and rabbit spawn egg textures
+- Added panda, polar bear and sniffer spawn egg textures
+- Added ender dragon, enderman, endermite and shulker spawn egg textures
+
+v121.10.14
+mrdhobbs
+- Added dormant creaking heart textures
+- Added bush texture
+- Added cactus flower texture
+- Added firefly bush, item and particle textures
+- Added wildflower textures
+- Added leaf litter textures
+- Added dry grass textures
+- Renamed active creaking heart textures
+- Renamed armor enchanted glint textures
+- Added falling leaf particle textures
+
+v121.9.13
+mrdhobbs
+- Added cow variant textures
+- Updated horse textures, to remove saddles
+- Moved old horse textures to a "pre 1.21.5" overlay
+- Added saddle textures for camels, horses, pigs and striders
+- Added cold and warm chicken variant textures
+- Updated temperate chicken texture
+- Added blue and brown spawn egg textures
+- Updated sheep texture
+- Added sheep undercoat texture
+- Added cold and warm pig variant textures
+- Added chicken, pig and sheep spawn egg textures
+
+v121.8.12
+mrdhobbs
+- Updated the magma cube texture
+- Added allay, armadillo and axolotl spawn egg textures
+- Moved old chicken, cow and pig textures to a "pre 1.21.5" overlay
+- Updated temperate cow textures (cow texture in pre 1.21.5 versions)
+- Updated red and brown mooshroom textures
+- Added cow and mooshroom spawn egg textures
+
+v121.7.11
+mrdhobbs
+- Updated to 1.21.5 format (version 55)
+- Moved the Garden Awakens panorama to a separate overlay
+- Updated clock, compass and recovery compass models for 1.21.4 and above
+  (added an overlay for previous versions, to retain compatibility)
+
+v121.7.10
+mrdhobbs
+- Updated wither skeleton texture
+- Updated stray textures
+- Updated wither textures
+
+v121.7.9
+mrdhobbs
+- Updated end portal frame eye texture
+- Updated panorama textures
+
+v121.7.8
+mrdhobbs
+- Updated copper & copper grate textures
+- Updated suspicious sand and gravel textures
+
+v121.7.7
+mrdhobbs
+- Fixed model errors
+
+v121.7.6
+mrdhobbs
+- Added pale oak particle textures
+- Added creaking textures
+- Added creaking heart textures
+- Added resin block textures
+- Added resin item textures
+- Added resin trim colour palette
+
+v121.6.6
+mrdhobbs
+- Updated to 1.21.4 format (version 46)
+- Moved the Tricky Trials panorama to a separate overlay
+- Added empty GUI slot textures
+- Changed broken elytra filename
+- Added various "misc" textures (such as vignettes)
+- Added pale oak (and stripped) block textures
+- Added pale oak door and trapdoor textures
+- Added pale oak boat, sign and hanging sign textures
+- Added pale moss textures
+- Updated redstone torch texture
+
+v121.5.5
+mrdhobbs
+- Added new equipment textures
+- Added bundle and bundle GUI textures
+- Added various GUI textures
+- Added bordure and field masoned banner patterns
+- Updated all banner pattern textures
+
+v121.4.4
+mrdhobbs
+- Fixed issue with some paintings not loading in 1.21.3
+
+v121.4.3
+mrdhobbs
+- Updated to 1.21.3 format (version 42) - still compatible with previous version
+- Added menu panorama
+- Added new mob effects
+
+v121.3.3
+mrdhobbs
+- Added tuff variant textures - chiseled, bricks and polished
+- Added copper textures - bulb, door, grate and trap door (including 3D models)
+- Added exposed, oxidized and weathered copper textures (as above)
+- Added new painting textures
+
+v121.2.3
+mrdhobbs
+- Added heavy core texture
+- Added trial spawner textures
+- Removed unused textures
+- Added crafter sprites
+- Added scrape pottery sherd and pattern textures
+- Added ominous bottle and trial keys textures
+- Added empty slot textures
+- Added mace texture
+- Added new music disc textures
+- Expanded the map decorations into individual textures
+- Added gust, infested, ominous spawning, omen and trial spawner particles
+- Added vault textures
+
+v121.1.2
+mrdhobbs
+-Added crafter block and GUI textures
+-Added bogged texture
+-Updated skeleton texture
+-Added breeze textures (including breeze rod and wind charge)
+-Added flow and guster banners, shields and pottery pattern textures
+-Added bolt and flow armor trim smelting template textures
+-Added bolt and flow armor trim textures
+
+v121.0.1
+mrdhobbs
+-Updated to 1.21 format (version 34)
+
+v120.9.5
+mrdhobbs
+-Updated to 1.20.6 format (version 32)
+-Updated bamboo fence and fencegate textures
+-Renamed scute texture turtle_scute
+-Added new wolves and armour textures
+-Added armadillo and armadillo scute textures
+
 v120.8.4
 mrdhobbs
 -Added 1.20 menu panorama textures
