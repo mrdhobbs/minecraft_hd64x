@@ -7,7 +7,6 @@ COLORMAP:
     Dry foliage
 
 ENTITIES:
-    Happy ghast
     Happy ghast harness (16 colours)
 
 GUI:

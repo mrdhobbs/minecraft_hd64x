@@ -2,7 +2,7 @@
 	"pack": {
 		"pack_format": 64,
 		"supported_formats": [34, 64],
-		"description": "Version 121.12.14"
+		"description": "Version 121.13.15"
 	},
 	"overlays": {
 		"entries": [
@@ -16,11 +16,11 @@
 			},
 			{
 				"directory": "overlay_1.21.4",
-				"formats": [46, 64]
+				"formats": [46, 62]
 			},
 			{
 				"directory": "overlay_-1.21.5",
-				"formats": [34, 64]
+				"formats": [34, 47]
 			}
 		]
 	}

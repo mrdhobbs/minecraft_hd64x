@@ -1,3 +1,10 @@
+v121.13.15
+mrdhobbs
+- Updated ghast textures
+- Added happy ghast and baby happy ghast textures
+- Added happy ghast harness and rope textures
+- Updated "pack.mcmeta" file, so mooshrooms now use the correct textures
+
 v121.12.14
 mrdhobbs
 - Updated to 1.21.8 format (version 64)
