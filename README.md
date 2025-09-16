@@ -7,7 +7,7 @@ This is a resource pack that is a more detailed version of its original counterp
 
 Originally developed by shadowtime1290, mrdhobbs took over maintenance of this pack in March 2016, with a version for Minecraft 1.9.
 
-The pack is 100% complete (as of Minecraft 1.19.4). I do not add textures for the snapshot versions, as they often change before final release. Once the release is close, I then start working on the new textures.
+The pack is 100% complete (as of Minecraft 1.21.4). I do not add textures for the snapshot versions, as they often change before final release. Once the release is close, I then start working on the new textures.
 
 <h1>Credits</h1>
 
